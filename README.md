@@ -4,9 +4,9 @@
 
 ## I'm a Developer love this part so much !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][]!
+- 🔭 I wanna Become A VS Code SuperHero!!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to be fullstack engineer or mobile engineer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play DoTa2
 
