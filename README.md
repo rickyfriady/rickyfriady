@@ -1,4 +1,4 @@
-### Hi there, I'm Ricki - aka AllukyyDev 👋
+### Hi there, I'm Ricki Friadi - aka AllukyyDev 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/allukyyDev_?label=AllukyDev&style=social)](https://twitter.com/allukyyDev_)
 
