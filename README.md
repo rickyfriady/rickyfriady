@@ -34,9 +34,9 @@
 
 ---
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=rickyfriady&show_icons=true&theme=tokyonight&title_color=aee9ea&text_color=e0c2c2&bg_color=303030&locale=en&layout=compact&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rickyfriady&show_icons=true&theme=radical&locale=en&layout=compact&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rickyfriady&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfriady&show_icons=true&theme=radical&title_color=aee9ea&text_color=e0c2c2&bg_color=303030&locale=en&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfriady&show_icons=true&theme=radical&locale=en&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
