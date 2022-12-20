@@ -1,4 +1,4 @@
-## Hi there, I'm Ricki Friadi - aka AllukyyDev 👋
+## Hi there, I'm Ricki Friadi - aka AllukyyDev <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="25" height="25" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/allukyyDev_?label=AllukyDev&style=social)](https://twitter.com/allukyyDev_)
 <img src="https://komarev.com/ghpvc/?username=rickyfriady&label=Profile%20views&color=0e75b6&style=plastic" alt="rickyfriady" />
@@ -37,11 +37,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=rickyfriady&show_icons=true&theme=tokyonight&title_color=aee9ea&text_color=e0c2c2&bg_color=303030&locale=en&layout=compact&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rickyfriady&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfriady&show_icons=true&theme=radical&title_color=aee9ea&text_color=e0c2c2&bg_color=303030&locale=en&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
 ---
-## 🏆 GitHub Trophy :
-<br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickyfriady" alt="rickyfriady" /></a> </p>
-
+## 🏆 Random Quotes :
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
