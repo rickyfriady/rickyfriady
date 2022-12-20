@@ -1,6 +1,7 @@
 ### Hi there, I'm Ricki Friadi - aka AllukyyDev 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/allukyyDev_?label=AllukyDev&style=social)](https://twitter.com/allukyyDev_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rickifriadi)
 
 ## I'm a Developer love this part so much !!
 
