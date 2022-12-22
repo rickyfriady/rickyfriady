@@ -1,4 +1,4 @@
-## Hi there, I'm Ricki Friadi - aka AllukyyDev <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="25" height="25" />
+## Hi there, I'm Ricki Friadi - aka AllukyyDev <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="30" height="30" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/allukyyDev_?label=AllukyDev&style=social)](https://twitter.com/allukyyDev_)
 <img src="https://komarev.com/ghpvc/?username=rickyfriady&label=Profile%20views&color=0e75b6&style=plastic" alt="rickyfriady" />
@@ -13,7 +13,7 @@
 
 ### 🌐 Connect with me:
 
-<a href="https://codepen.io/rickyfriady" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rickyfriady" height="30" width="40" /></a>
+<a href="https://codepen.io/rickyfriady" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="allukyy" height="30" width="40" /></a>
 <a href="https://dev.to/allukyy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="allukyy" height="30" width="40" /></a>
 <a href="https://twitter.com/allukyydev_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allukyydev_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rickifriadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rickifriadi" height="30" width="40" /></a>
