@@ -13,11 +13,11 @@
 
 ### 🌐 Connect with me:
 
-<a href="https://codepen.io/rickyfriady" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="allukyy" height="30" width="40" /></a>
+<a href="https://codepen.io/rickyfrdy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="allukyy" height="30" width="40" /></a>
 <a href="https://dev.to/allukyy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="allukyy" height="30" width="40" /></a>
 <a href="https://twitter.com/allukyydev_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allukyydev_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rickifriadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rickifriadi" height="30" width="40" /></a>
-<a href="https://codesandbox.com/rickyfriady" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rickyfriady" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rickyfrdy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rickyfriady" height="30" width="40" /></a>
 <a href="https://fb.com/rickifriadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rickifriadi" height="30" width="40" /></a>
 <a href="https://instagram.com/rickyfrdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rickyfrdy" height="30" width="40" /></a>
 <a href="https://medium.com/@rickyfriady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rickyfriady" height="30" width="40" /></a>
