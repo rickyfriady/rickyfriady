@@ -58,7 +58,9 @@
 [![github](https://skillicons.dev/icons?i=github)](https://)
 [![bash](https://skillicons.dev/icons?i=bash)](https://)
 [![powershell](https://skillicons.dev/icons?i=powershell)](https://)
+[![linux](https://skillicons.dev/icons?i=linux)](https://)
 [![vite](https://skillicons.dev/icons?i=vite)](https://)
+[![cypress](https://skillicons.dev/icons?i=cypress)](https://)
 
 
 
