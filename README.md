@@ -50,6 +50,15 @@
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://)
 [![python](https://skillicons.dev/icons?i=py)](https://)
 [![flask](https://skillicons.dev/icons?i=flask)](https://)
+[![php](https://skillicons.dev/icons?i=php)](https://)
+[![laravel](https://skillicons.dev/icons?i=laravel)](https://)
+[![symfony](https://skillicons.dev/icons?i=symfony)](https://)
+[![jest](https://skillicons.dev/icons?i=jest)](https://)
+[![git](https://skillicons.dev/icons?i=git)](https://)
+[![github](https://skillicons.dev/icons?i=github)](https://)
+[![bash](https://skillicons.dev/icons?i=bash)](https://)
+[![powershell](https://skillicons.dev/icons?i=powershell)](https://)
+[![vite](https://skillicons.dev/icons?i=vite)](https://)
 
 
 
