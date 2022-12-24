@@ -60,7 +60,7 @@
 [![powershell](https://skillicons.dev/icons?i=powershell)](https://)
 [![linux](https://skillicons.dev/icons?i=linux)](https://)
 [![vite](https://skillicons.dev/icons?i=vite)](https://)
-[![cypress](https://skillicons.dev/icons?i=cypress)](https://)
+[![cypress](https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png)](https://)
 
 
 
