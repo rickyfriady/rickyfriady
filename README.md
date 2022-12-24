@@ -46,7 +46,8 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://)
 [![Emotion](https://skillicons.dev/icons?i=emotion)](https://)
 [![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)](https://)
-[![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)](https://)
+[![materialui](https://skillicons.dev/icons?i=materialui)](https://)
+[![tailwind](https://skillicons.dev/icons?i=tailwind)](https://)
 [![python](https://skillicons.dev/icons?i=py)](https://)
 [![flask](https://skillicons.dev/icons?i=flask)](https://)
 
