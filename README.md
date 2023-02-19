@@ -1,3 +1,7 @@
+<div style="width: 50%;">
+  <img src="welcome.svg" style="width: 50%;" alt="Click to see the source">
+</div>
+
 ## Hi there, I'm Ricki Friadi - aka AllukyyDev <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="30" height="30" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/allukyyDev_?label=AllukyDev&style=social)](https://twitter.com/allukyyDev_)
