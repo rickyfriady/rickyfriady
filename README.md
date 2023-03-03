@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [rickyfrdy.site](https://rickyfrdy.site)
 - 💬 Ask me about **react, next js**
 - 📫 How to reach me **friadi.ricki@gmail.com**
-- ⚡ Fun fact **I love to draw and play DoTa2 also Wild Rift**
+- ⚡ Fun fact **I love to draw and play DoTa2 also Wild Rift 🎮**
 
 ### 🌐 Connect with me:
 
