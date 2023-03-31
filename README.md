@@ -8,7 +8,7 @@
 
 ## I'm a Developer love this part so much !! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="30" height="30" />
 
-- 🌱 I’m currently learning **fullstack engineer stack**
+- 💻 I’m currently learning **fullstack engineer stack**
 - 👨‍💻 All of my projects are available at [rickyfrdy.site](https://rickyfrdy.site)
 - 💬 Ask me about **react.js, next.js, node.js, javascript, typescript**
 - 📫 How to reach me **friadi.ricki@gmail.com**
