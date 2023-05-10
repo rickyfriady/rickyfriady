@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/allukyyDev_?label=AllukyDev&style=social)](https://twitter.com/allukyyDev_)
 <img src="https://komarev.com/ghpvc/?username=rickyfriady&label=Profile%20views&color=0e75b6&style=plastic" alt="rickyfriady" />
 
-## I'm a Developer love this part so much !! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="30" height="30" />
+## I'm a Developer love this part so much !!! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="30" height="30" />
 
 - 💻 I’m currently learning **Full Stack Engineer Stack Tech**
 - 👨‍💻 All of my projects are available at [rickyfrdy.site](https://rickyfrdy.site)
