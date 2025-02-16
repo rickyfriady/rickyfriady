@@ -1,7 +1,3 @@
-<div style="width: 50%; padding-bottom: 10px; margin-bottom: 10px;">
-  <img src="welcome.svg" style="width: 50%;" alt="Click to see the source">
-</div>
-
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rickyfrdy_?label=rickyfrdy&style=social)](https://twitter.com/rickyfrdy_)
 <img src="https://komarev.com/ghpvc/?username=rickyfriady&label=Profile%20views&color=0e75b6&style=plastic" alt="rickyfriady" />
