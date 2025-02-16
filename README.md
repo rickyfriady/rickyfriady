@@ -6,6 +6,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rickyfrdy_?label=rickyfrdy&style=social)](https://twitter.com/rickyfrdy_)
 <img src="https://komarev.com/ghpvc/?username=rickyfriady&label=Profile%20views&color=0e75b6&style=plastic" alt="rickyfriady" />
 
+
+
+<img align="right" alt="Elliot Alderson" width="350" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif">
 ## I'm a Software Developer love this part so much !!!! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="30" height="30" />
 
 - 💻 I’m currently learning **Full Stack Engineer Stack Tech**
