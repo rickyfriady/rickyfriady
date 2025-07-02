@@ -1,5 +1,5 @@
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rickyfrdy_?label=rickyfrdy&style=social)](https://twitter.com/rickyfrdy_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rickyfrdy?label=rickyfrdy&style=social)](https://x.com/rickyfrdy)
 <img src="https://komarev.com/ghpvc/?username=rickyfriady&label=Profile%20views&color=0e75b6&style=plastic" alt="rickyfriady" />
 
 
@@ -28,41 +28,6 @@
 
 <br />
 
-### 💻 Languages and Tools:
-[![HTML](https://skillicons.dev/icons?i=html)]()
-[![CSS](https://skillicons.dev/icons?i=css)]()
-[![SCSS](https://skillicons.dev/icons?i=scss)]()
-[![Javascript](https://skillicons.dev/icons?i=js)]()
-[![Typescript](https://skillicons.dev/icons?i=ts)]()
-[![NODEJS](https://skillicons.dev/icons?i=nodejs)]()
-[![React](https://skillicons.dev/icons?i=react)]()
-[![Redux](https://skillicons.dev/icons?i=redux)]()
-[![Express](https://skillicons.dev/icons?i=express)]()
-[![Nextjs](https://skillicons.dev/icons?i=next)]()
-[![MongoDb](https://skillicons.dev/icons?i=mongodb)]()
-[![Mysql](https://skillicons.dev/icons?i=mysql)]()
-[![PostgreSql](https://skillicons.dev/icons?i=postgres)]()
-[![Sqlite](https://skillicons.dev/icons?i=sqlite)]()
-[![Firebase](https://skillicons.dev/icons?i=firebase)]()
-[![graphQL](https://skillicons.dev/icons?i=graphql)]()
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-[![Emotion](https://skillicons.dev/icons?i=emotion)]()
-[![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)]()
-[![materialui](https://skillicons.dev/icons?i=materialui)]()
-[![tailwind](https://skillicons.dev/icons?i=tailwind)]()
-[![python](https://skillicons.dev/icons?i=py)]()
-[![flask](https://skillicons.dev/icons?i=flask)]()
-[![php](https://skillicons.dev/icons?i=php)]()
-[![laravel](https://skillicons.dev/icons?i=laravel)]()
-[![symfony](https://skillicons.dev/icons?i=symfony)]()
-[![jest](https://skillicons.dev/icons?i=jest)]()
-[![git](https://skillicons.dev/icons?i=git)]()
-[![github](https://skillicons.dev/icons?i=github)]()
-[![bash](https://skillicons.dev/icons?i=bash)]()
-[![powershell](https://skillicons.dev/icons?i=powershell)]()
-[![linux](https://skillicons.dev/icons?i=linux)]()
-[![vite](https://skillicons.dev/icons?i=vite)]()
-
 <br />
 
 ---
@@ -70,12 +35,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=rickyfriady&show_icons=true&theme=radical&locale=en&layout=compact&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rickyfriady&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfriady&show_icons=true&theme=radical&locale=en&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
-
----
-
-## 🏆 Random Quotes :
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
