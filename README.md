@@ -2,6 +2,20 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rickyfrdy?label=rickyfrdy&style=social)](https://x.com/rickyfrdy)
 <img src="https://komarev.com/ghpvc/?username=rickyfriady&label=Profile%20views&color=0e75b6&style=plastic" alt="rickyfriady" />
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rickyfriady/rickyfriady/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rickyfriady/rickyfriady/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/rickyfriady/rickyfriady/output/github-snake.svg"
+  />
+</picture>
 
 
 <img align="right" alt="Elliot Alderson" width="350" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif">
