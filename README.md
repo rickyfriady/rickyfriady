@@ -67,7 +67,7 @@ const rickyfrdy = {
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏨 [hotels-booking-app](https://github.com/rickyfriady/hotels-booking-app) | Booking hotels, minus the actual traveling | JavaScript |
+| 🐍 [Snake-Vue](https://github.com/rickyfriady/snake-vue) | Snake Game make with vue  | typescript |
 | 📅 [react-booking-app](https://github.com/rickyfriady/react-booking-app) | A booking app for people who love booking apps | React.js |
 | 🔌 [rest-api](https://github.com/rickyfriady/rest-api) | All things REST API, no rest for the developer | JavaScript |
 | 🌐 [allukyydev-homepage](https://github.com/rickyfriady/allukyydev-homepage) | My corner of the internet | JavaScript |
@@ -115,8 +115,8 @@ const rickyfrdy = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rickyfriady&show_icons=true&theme=radical&locale=en&count_private=false" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfriady&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" width="42%" />
+<img src="https://github-stats-extended.vercel.app/api?username=rickyfriady&show_icons=true&theme=radical&locale=en&count_private=false" alt="GitHub Stats" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rickyfriady&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" width="42%" />
 
 <br/>
 
