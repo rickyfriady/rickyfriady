@@ -63,6 +63,25 @@ const rickyfrdy = {
 
 <br/>
 
+## 👩‍🦳 My Partner
+
+<div align="center">
+
+### 👩‍💻 My Partner in Code (and in Life) — Laura Elisabeth Sinaga
+
+*QA Engineer who catches the bugs I swear "worked on my machine"* 🐞
+
+**3+ years** turning "it works" into "it actually works" — manual testing for web & mobile, API validation with Postman, database checks in MySQL & MongoDB, and scenario-first test design with Cucumber & Jira.
+
+If I'm the one who breaks it, she's the one who makes sure it never reaches you. 😄
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-loracanss.my.id-FF6F91?style=for-the-badge&logo=vercel&logoColor=white)](https://loracanss-web.vercel.app/en)
+
+</div>
+
+
+<br/>
+
 ## 📌 Featured Builds
 
 | Project | What it does | Stack |
