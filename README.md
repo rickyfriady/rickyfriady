@@ -2,9 +2,9 @@
 
 <img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif" width="180" alt="coding cat" />
 
-# Hi, I'm Ricky Friadi 👋
+# Hi, I'm Ricki Friadi 👋
 
-### Software Developer • Full Stack Enthusiast • DotA2 Player 🎮
+### Software Developer • Full Stack Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Always+learning+something+new;Let's+build+something+great!)](https://git.io/typing-svg)
 
@@ -43,7 +43,7 @@ const rickyfrdy = {
 - 🏆 Proud holder of the **Pull Shark**, **Pair Extraordinaire**, and **YOLO** GitHub achievements — yes, YOLO is a real badge and yes, I earned it by pushing straight to `main`
 - 🐛 My commit history is basically a diary titled *"fix bug"*, *"fix bug again"*, and *"please work now"*
 - ☕ Powered by caffeine, Stack Overflow, and the eternal hope that this deploy won't break production
-- 📫 Reach me at **friadi.ricki@gmail.com** — replies may be delayed if I'm mid-rank in DotA 2
+- 📫 Reach me at **friadi.ricki@gmail.com** 
 - 🌏 Based in Indonesia, running on UTC+7 and questionable sleep schedules
 - ⚡ Fun fact: I can debug a race condition faster than I can win one in Mobile Legends... I mean Wild Rift
 
